@@ -21,7 +21,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://jp-mainieri.github.io/a002/)
 
 ## My process
 
